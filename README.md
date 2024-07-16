@@ -30,5 +30,5 @@
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=TitusRulos)](https://github.com/ryo-ma/github-profile-trophy)     
+https://github-profile-trophy.vercel.app/?username=TitusRulos&theme=onedark
 <!--- stats (end) -->
