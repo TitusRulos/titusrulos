@@ -22,20 +22,11 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,css,html,js,mysql,postgre,git,github,postman,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,css,html,js,mysql,postgres,git,github,postman,vscode,linux" />
   </a>
 </p>
 <br>
 <!------------------------->
-
-
-    
-    
-<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
-  </p>
-</div>
-  <br>
-<br><br>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
