@@ -31,35 +31,15 @@
 <h2>GitHub :octocat:</h2>
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center"> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TitusRulos&show_icons=true&locale=en&layout=compact" alt="TitusRulos" /></p>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" /> 
-</td>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TitusRulos&show_icons=true&locale=en" alt="TitusRulos" /></p>
+</p>
 
-<td width="40%" align="center">
+## My Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TitusRulos&" alt="TitusRulos" /></p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=TitusRulosv&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TitusRulos" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
+## My Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TitusRulos" alt="TitusRulos" /></a> </p>
