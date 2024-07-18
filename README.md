@@ -38,8 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TitusRulos&show_icons=true&locale=en" alt="TitusRulos" /></p>
 </p>
 
-## My Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TitusRulos&" alt="TitusRulos" /></p>
 
 ## My Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TitusRulos" alt="TitusRulos" /></a> </p>
