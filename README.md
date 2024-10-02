@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Juan José Tinoco García / Backend Dev ✨ </h1> 
+<h1 align="center">Hola 👋  soy Juan José Tinoco García / Full-Stack Dev ✨ </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQEOVjf7ifeNhgAAAZC9A8vIzbSLL2DWAO_4j-raSEQocBSMrOE2cLMcLZ6ZsS9vAo6X6THXCcJsdPqHgof6a4hZV6X0LExgeROTMtEidnvj3ovGYfrVXHJimdQlTS0SDvsF7YE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuan-tinoco-800804316%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
